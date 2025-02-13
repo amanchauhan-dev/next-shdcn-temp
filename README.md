@@ -1,6 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Description
+
+This is template of Next js project with some basic configuration that we need to do every time for a new project.
+
+##### Configurations made
+
+- Tailwind css
+- Well defined "Hex color variables" in global.css
+- shadcn library installed with default config.
+- Basic routing with pages directory
+- Progress Bar configuration
+
 ## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the project
+
+    Download the .zip, extract and navigate in the directory
+    
+``` bash
+
+git clone https://github.com/amanchauhan-dev/next-shadcn-temp.git 
+
+```
 
 First, run the development server:
 
